@@ -9,7 +9,7 @@ create a virtual environment in python and then activate it
 pip install -r requirements.txt
 
 # step4
-create a .env file and place the below code inside that </b>
+create a .env file and place the following code inside that 
 GOOGLE_API_KEY = "your_api_key_here"
 
 # Step5
