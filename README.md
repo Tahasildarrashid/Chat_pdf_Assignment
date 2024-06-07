@@ -10,7 +10,7 @@ pip install -r requirements.txt
 
 # step4
 create a .env file and place the below code inside that
-# GOOGLE_API_KEY = "your_api_key_here"
+GOOGLE_API_KEY = "your_api_key_here"
 
 # Step5
 run the chatpdf.py file with the following command 
